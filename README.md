@@ -4,8 +4,8 @@ This is a simple browser-based "Rock-Paper-Scissors" game built using HTML, CSS,
 ## Features
 - **Play Mode**: Choose between "Rock", "Paper," or "Scissors" by clicking buttons or pressing the 'R', 'P', or 'S' keys.
 - **Auto-Play Mode**: Click the "Auto Play" button to let the game play automatically with random moves.
-- **Score Tracking**: The game tracks wins, losses, and ties in localStorage, so the scores persist even after refreshing the page.
-**Reset Score**: Reset the score at any time with the "Reset Score" button.
+- **Score Tracking**: The game tracks wins, losses, and ties in `localStorage`, so the scores persist even after refreshing the page.
+- **Reset Score**: Reset the score at any time with the "Reset Score" button.
 
 ## Files Overview
 ### HTML (`rock-paper-scissors.html`)
