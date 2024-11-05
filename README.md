@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-game
-This is a simple browser-based "Rock-Paper-Scissors" game built using HTML, CSS, and JavaScript. The game allows the user to play against the computer and keeps track of wins, losses, and ties using localStorage. The player can also play in Auto mode, where the computer automatically picks moves at intervals, and can reset the score.
+This is a simple browser-based "Rock-Paper-Scissors" game built using HTML, CSS, and JavaScript. The game allows the user to play against the computer and keeps track of wins, losses, and ties using `localStorage`. The player can also play in Auto mode, where the computer automatically picks moves at intervals, and can reset the score.
 
 ## Features
 - **Play Mode**: Choose between "Rock", "Paper," or "Scissors" by clicking buttons or pressing the 'R', 'P', or 'S' keys.
